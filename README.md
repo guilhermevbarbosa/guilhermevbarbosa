@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Front-end Developer at fri.to.
-- 🌱 I’m currently learning React and Flutter
+- 🔭 Working as Front-end Developer at frt.
+- 🌱 Learning React 
 - 📚 Bachelor of Sistemas para Internet and Produção Multimídia
 
 <div>
