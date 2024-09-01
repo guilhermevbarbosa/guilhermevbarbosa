@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Working as Front-end Developer at frt.
-- 🌱 Learning React 
-- 📚 Bachelor of Sistemas para Internet and Produção Multimídia
+- 🔭 Working as a Front-end Developer at GFT Technologies.
+- 📚 Bachelor’s in Systems for the Internet and Multimedia Production
+- 📚 Postgraduate Degree in Multiplatform Mobile Application Projects
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevbarbosa&layout=compact&langs_count=7&theme=dracula"/>  
