@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working as a Front-end Developer at GFT Technologies.
+- 🔭 Working as a Software Engineer at Bradesco.
 - 📚 Bachelor’s in Systems for the Internet and Multimedia Production
 - 📚 Postgraduate Degree in Multiplatform Mobile Application Projects
 
